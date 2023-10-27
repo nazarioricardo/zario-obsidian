@@ -1,7 +1,7 @@
 {
-	"name": "Sample Theme",
-	"version": "1.0.0",
-	"minAppVersion": "1.0.0",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md"
+  "name": "Zario",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "author": "Ricardo Nazario",
+  "authorUrl": "https://gneiss.dev"
 }
